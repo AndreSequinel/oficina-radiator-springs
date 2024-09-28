@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projeto_oficina_C#\\Oficina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF741674-4852-4916-827E-7F43A5AFA68E}|Oficina.csproj|c:\\projeto_oficina_c#\\oficina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF741674-4852-4916-827E-7F43A5AFA68E}|Oficina.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF741674-4852-4916-827E-7F43A5AFA68E}|Oficina.csproj|c:\\projeto_oficina_c#\\oficina\\modelos oficina\\menus\\menucadastrarcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF741674-4852-4916-827E-7F43A5AFA68E}|Oficina.csproj|solutionrelative:modelos oficina\\menus\\menucadastrarcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF741674-4852-4916-827E-7F43A5AFA68E}|Oficina.csproj|c:\\projeto_oficina_c#\\oficina\\modelos oficina\\menus\\menuexibirdetalhesdocarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF741674-4852-4916-827E-7F43A5AFA68E}|Oficina.csproj|solutionrelative:modelos oficina\\menus\\menuexibirdetalhesdocarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projeto_oficina_C#\\Oficina\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projeto_oficina_C#\\Oficina\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:47:33.174Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuCadastrarCarro.cs",
+              "DocumentMoniker": "C:\\Projeto_oficina_C#\\Oficina\\Modelos Oficina\\Menus\\MenuCadastrarCarro.cs",
+              "RelativeDocumentMoniker": "Modelos Oficina\\Menus\\MenuCadastrarCarro.cs",
+              "ToolTip": "C:\\Projeto_oficina_C#\\Oficina\\Modelos Oficina\\Menus\\MenuCadastrarCarro.cs",
+              "RelativeToolTip": "Modelos Oficina\\Menus\\MenuCadastrarCarro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:35:10.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuExibirDetalhesDoCarro.cs",
+              "DocumentMoniker": "C:\\Projeto_oficina_C#\\Oficina\\Modelos Oficina\\Menus\\MenuExibirDetalhesDoCarro.cs",
+              "RelativeDocumentMoniker": "Modelos Oficina\\Menus\\MenuExibirDetalhesDoCarro.cs",
+              "ToolTip": "C:\\Projeto_oficina_C#\\Oficina\\Modelos Oficina\\Menus\\MenuExibirDetalhesDoCarro.cs",
+              "RelativeToolTip": "Modelos Oficina\\Menus\\MenuExibirDetalhesDoCarro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:34:05.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
