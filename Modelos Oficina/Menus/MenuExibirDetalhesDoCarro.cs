@@ -27,7 +27,7 @@ internal class MenuExibirDetalhesDoCarro : Menu
             {
                 Console.WriteLine("Carro não registrado na nossa base de dados.");
                 Thread.Sleep(3000);
-                break; // Sai do loop se o carro não for encontrado
+                break; 
             }
 
             else
@@ -37,11 +37,11 @@ internal class MenuExibirDetalhesDoCarro : Menu
                 foreach (var resultado in resultados)
                 {
                     resultado.Value.ExibirDetalhesDoCarro();
-                    Console.WriteLine(); // Adiciona uma linha em branco entre os detalhes de cada carro
+                    Console.WriteLine(); 
                 }
 
                 Thread.Sleep(5000);
-                break; // Sai do loop após exibir todos os carros encontrados
+                break; 
             }
         }
     }
